@@ -1,5 +1,5 @@
 {
-  "name": "brunocouty/busca-via-cep",
+  "name": "ogestor/busca-via-cep",
   "description": "Encontre os dados de um endereço a partir do CEP!",
   "authors": [
     {
@@ -11,10 +11,10 @@
   "require": {
     "guzzlehttp/guzzle": "~6.0",
     "php": ">=5.5.9",
-    "illuminate/contracts": "~5.1",
-    "illuminate/http": "~5.1",
-    "illuminate/support": "~5.1",
-    "illuminate/database": "~5.1"
+    "illuminate/contracts": "~6.0",
+    "illuminate/http": "~6.0",
+    "illuminate/support": "~6.0",
+    "illuminate/database": "~6.0"
   },
   "autoload": {
     "psr-4": {
