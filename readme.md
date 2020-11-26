@@ -16,7 +16,7 @@ Este pacote o ajudará a encontrar dados de um endereço com base em um cep info
 Primeiro, faça o download da biblioteca através do composer:
 
 ```
-composer require brunocouty/busca-via-cep
+composer require ogestor/busca-via-cep
 ```
 
 Agora, adicione o *Service Provider* no *array* de *providers*, no arquivo "*config/app.php*":
